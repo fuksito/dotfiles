@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Open Related",
+		"Copy Filepath With Line Numbers"
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	
+	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_US.dic"	
+}

@@ -1,0 +1,11 @@
+[user]
+	email = vitaliy@yanchuk.me
+	name = Vitaliy Yanchuk
+[github]
+	user = fuksito
+[core]
+	excludesfile = /Users/fuksito/.gitignore
+[color]
+	ui = auto
+[push]
+	default = simple
